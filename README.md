@@ -1,4 +1,4 @@
-Python Calculator Project
+<B>Python Calculator Project<B>
 
 A simple menu-driven calculator built using Python.
 This project performs basic and advanced mathematical operations using functions, loops, conditions, and the math module.
